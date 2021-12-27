@@ -4,7 +4,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=timegnome&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=timegnome&color=red" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
@@ -27,19 +27,19 @@
 
 <p align="center">
   <em>
-    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    Hi, I'm Marcel Maxwell a <b>undergraduate<b> from <a href="http://www.fullerton.edu/"> <b>California State University, Fullerton/b>,  ("Vox Veritas Vita")</a>. <br>
+    and a passionate self-learning graduate from <a href="https://www.linkedin.com/school/university-of-california-irvine-division-of-continuing-education/"> <b>UCI Continuing Education</b></a> that studied <b>Machine Learning, ETL Processes, and Data Manipulation</b>
+    who is always looking to find patterns hidden in the data
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/3o7qDVArtXdtl223Ek/giphy.gif" width="50" /> <b><i align="center">Thought : "Luck is determined on preperation before an opportunity/situation is presented…”</i></b> <img src="https://media.giphy.com/media/Y8dKrq2sDjQ5y/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently Developing a Luck Calculator pulling fro local files **Javascript**<br>
+✔ I’m currently Developing a Luck Calculator pulling from local files using **HTML/Javascript**<br>
 ✔ I’m currently learning about **python visuals** and **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask anything you want, and if I'm able, I will answer as soon as I can 😉<br>
@@ -49,8 +49,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width = '100'> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
@@ -64,8 +63,6 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
